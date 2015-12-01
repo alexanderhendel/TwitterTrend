@@ -11,4 +11,4 @@ This App uses [Fabric Framework](https://get.fabric.io) to manage Twitter logins
 
 ## Possible Furture Version Enhancements
 * SearchController in main screen
-* Add a MapView to choose the trending location from
+* Add a MapView to choose the trending location from (requires Yahoo API for woeid translation)
